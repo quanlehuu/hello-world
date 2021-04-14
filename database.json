@@ -1,25 +1,12 @@
-{
-  "projects": [
-    {
-      "id": 1,
-      "projectID": 1,
-      "projectName": "Project 1",
-      "dateOfStart": "2020-07-21",
-      "teamSize": 11
-    },
-    {
-      "id": 2,
-      "projectID": 2,
-      "projectName": "Project 2",
-      "dateOfStart": "2020-05-21",
-      "teamSize": 12
-    },
-    {
-      "projectId": "0101",
-      "projectName": "Project 1",
-      "dateofStart": "04/06/2020",
-      "teamSize": 12,
-      "id": 3
-    }
-  ]
-}
+{"page":1,"per_page":10,"total":12,"total_pages":2,"data":
+ [{"id":1,"price":"900.000đ","fullname":"Điện thoại iphone...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/1.jpg"},
+  {"id":2,"price":"332.000đ","fullname":"Sữa Rửa Mặt...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/2.jpg"},
+  {"id":3,"price":"197.000đ","fullname":"Tai nghe...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/3.jpg"},
+  {"id":4,"price":"41.000đ","fullname":"XIAOMI Máy cạo...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/4.jpg"},
+  {"id":5,"price":"222.000đ","fullname":"Mặt Nạ Đen...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/5.jpg"},
+  {"id":6,"price":"76.000đ","fullname":"Combo 8 Đầu...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/6.jpg"},
+  {"id":7,"price":"816.000đ","fullname":"Đồng Hồ...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/7.jpg"},
+  {"id":8,"price":"189.000đ","fullname":"MINI FOCUS...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/8.png"},
+  {"id":9,"price":"330.000đ","fullname":"Xiaomi Youpin...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/9.jpg"},
+  {"id":10,"price":"290.000đ ","fullname":"imex Women's...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/10.jpg"}],
+ "support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
