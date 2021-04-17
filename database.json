@@ -5,8 +5,5 @@
   {"id":4,"price":"41.000đ","fullname":"XIAOMI Máy cạo...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/4.jpg"},
   {"id":5,"price":"222.000đ","fullname":"Mặt Nạ Đen...","avatar":"https://fbeauty.vn/media/product/2601_2601_3.jpg"},
   {"id":6,"price":"900.000đ","fullname":"Điện thoại iphone...","avatar":"https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_1__7.jpg"},
-  {"id":7,"price":"332.000đ","fullname":"Sữa Rửa Mặt...","avatar":"https://product.hstatic.net/1000135192/product/srm_men_add98b60f3fb4715886f8d00b18871ec_grande.jpg"},
-  {"id":8,"price":"197.000đ","fullname":"Tai nghe...","avatar":"https://cello.vn/image/cache/catalog/Cello/SanPham/Tai%20Nghe/Sony/WH-CH510/WH-CH510Black_1-500x500.png"},
-  {"id":9,"price":"41.000đ","fullname":"XIAOMI Máy cạo...","avatar":"file:///D:/SCHOOL/Term-5-2021/WEB2061%20-%20L%E1%BA%ADp%20tr%C3%ACnh%20Javascript%20n%C3%A2ng%20cao%20-%20SP21/Assignment/home/images/products/p_9/4.jpg"},
-  {"id":10,"price":"222.000đ","fullname":"Mặt Nạ Đen...","avatar":"https://fbeauty.vn/media/product/2601_2601_3.jpg"}],
+  ],
  "support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
